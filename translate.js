@@ -16,4 +16,4 @@ async function translateText(text) {
   // Example usage
   const translatedText = await translateText("Hello, World!");
   console.log(translatedText);
-  
+  //TODO: add translator and cam API
